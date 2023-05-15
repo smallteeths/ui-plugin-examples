@@ -14,6 +14,3 @@ name: homepage
 type: application
 version: 0.3.0
 icon: https://raw.githubusercontent.com/rancher/ui-plugin-examples/main/pkg/homepage/homepage.svg
-dependencies:
-  - name: crds
-    version: 0.3.0
